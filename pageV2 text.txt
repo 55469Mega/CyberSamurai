@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+ <title>Test</title>
+ <h1 style="text-align:center; color:blue">Title</h1>
+  <br>
+ <body style="text-align:center; color:red">Some text over there and pictures</body>
+ <br>
+<img src="https://asset.msi.com/global/picture/image/images/wallpaper/2017/msi_logo.jpg" height="300" width="500">
+  <br>
+ <p>another image</p>
+ <img src="https://asset.msi.com/global/picture/image/images/wallpaper/2015/0501/Power-6_blue-Green-big_logo.jpg" height="300" width="500">
+ <p style="color:blue">To find more wallpapers, go to
+<a href="https://asset.msi.com/global/picture/image/images/wallpaper/2017/msi_logo.jpg">MSI wallpapers</a>
+ </p>
+ <audio controls>
+  <source
+</html>
